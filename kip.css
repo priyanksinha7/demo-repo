@@ -16,6 +16,10 @@ button {
     transition: all 0.1s;
 }
 
+a {
+    color: white;
+}
+
 button:hover {
     border-color: #f1ff5c;
     color: white;
