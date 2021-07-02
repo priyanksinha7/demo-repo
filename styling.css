@@ -10,4 +10,7 @@ h1 {
 
 img {
     align-items: center;
+    margin: 1000px;
+    border-radius: 20%;
+    border: 10px solid rgb(168, 204, 70);
 }
